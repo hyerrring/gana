@@ -1,5 +1,5 @@
 package object_class;
-//은행계좌 클래스 (신한은행) , getter, setter 기능 추가해주세요
+//은행계좌 클래스 (신한은행) , 멤버변수 접근제한자로 보호하고, getter, setter 기능 추가해주세요
 public class Account { //'Account'라는 객체
 	//멤버변수(필드), 값 저장 변수
 	static final String BANKNAME = "신한은행"; //정적멤버변수, 
